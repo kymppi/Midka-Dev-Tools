@@ -25,7 +25,7 @@
   "devDependencies": {
     "@types/listr": "^0.14.2",
     "@types/ncp": "^2.0.4",
-    "@types/node": "^15.0.1",
+    "@types/node": "^16.0.0",
     "@types/prompts": "^2.0.9"
   },
   "scripts": {
